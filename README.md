@@ -1,4 +1,5 @@
-![Fire Detection Demo](https://i.ibb.co/YdRJm2X/Untitled-video-Made-with-Clipchamp-2.gif)
+![Fire Detection Demo](https://github.com/luminous0219/fire-and-smoke-detection-yolov8/blob/main/fire%20demo%201.gif)
+![Fire Detection Demo](https://github.com/luminous0219/fire-and-smoke-detection-yolov8/blob/main/fire%20demo%202.gif)
 
 **Fire and Smoke Detection Model**
 
