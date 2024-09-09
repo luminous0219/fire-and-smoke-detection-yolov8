@@ -32,11 +32,11 @@ model = YOLO("best.pt")
 2. Running Inference on an Image or Video
 To run inference on an image or video, use the following code:
 
-# Inference on an image
+Inference on an image
 results = model("path_to_image.jpg")
 results.show()
 
-# Inference on a video file
+Inference on a video file
 results = model("path_to_video.mp4")
 results.show()
 
